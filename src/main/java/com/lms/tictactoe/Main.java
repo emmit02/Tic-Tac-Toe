@@ -11,7 +11,7 @@ package com.lms.tictactoe;
 public class Main {
 
     /**
-     * @param args the command line arguments
+     * @Sanjeevani args the command line arguments
      */
     public static void main(String[] args) 
     {
